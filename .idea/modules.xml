@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank-account/bank-account.iml" filepath="$PROJECT_DIR$/bank-account/bank-account.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-new-udemy.iml" filepath="$PROJECT_DIR$/java-new-udemy.iml" />
       <module fileurl="file://$PROJECT_DIR$/produt-estoque/produt-estoque.iml" filepath="$PROJECT_DIR$/produt-estoque/produt-estoque.iml" />
     </modules>
