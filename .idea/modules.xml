@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/curso_programacao/curso_programacao.iml" filepath="$PROJECT_DIR$/curso_programacao/curso_programacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/cursoPoo/introPoo.iml" filepath="$PROJECT_DIR$/cursoPoo/introPoo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-new-udemy.iml" filepath="$PROJECT_DIR$/.idea/java-new-udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooStock/pooStock.iml" filepath="$PROJECT_DIR$/pooStock/pooStock.iml" />
       <module fileurl="file://$PROJECT_DIR$/test hello word/test hello word.iml" filepath="$PROJECT_DIR$/test hello word/test hello word.iml" />
     </modules>
   </component>
