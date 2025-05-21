@@ -30,7 +30,7 @@ public class program {
             }
         }
         System.out.println("Negative number = " + count);
-
+        System.out.println();
 
 
 
